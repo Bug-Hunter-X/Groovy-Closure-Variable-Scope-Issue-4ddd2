@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Groovy related to the scope of variables within closures.  The `bug.groovy` file shows the erroneous code, where an attempt is made to access a variable defined inside a closure from outside. The `bugSolution.groovy` file provides a corrected version illustrating how to properly manage variable scope when using closures.
